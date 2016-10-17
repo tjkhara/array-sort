@@ -1,0 +1,6 @@
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\q5-int-array-sort\q5-int-array-sort\bin\Debug\q5-int-array-sort.exe.config
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\q5-int-array-sort\q5-int-array-sort\bin\Debug\q5-int-array-sort.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\q5-int-array-sort\q5-int-array-sort\bin\Debug\q5-int-array-sort.pdb
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\q5-int-array-sort\q5-int-array-sort\obj\Debug\q5-int-array-sort.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\q5-int-array-sort\q5-int-array-sort\obj\Debug\q5-int-array-sort.pdb
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\q5-int-array-sort\q5-int-array-sort\obj\Debug\q5-int-array-sort.csprojResolveAssemblyReference.cache
